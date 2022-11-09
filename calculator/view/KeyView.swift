@@ -9,6 +9,8 @@ import SwiftUI
 
 struct KeyView: View {
     
+    //check this new comit
+    
     @State var value = "0"
     @State var runningNumber = 0
     @State var currentOperation : Operation = .none
